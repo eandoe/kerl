@@ -1,0 +1,89 @@
+General gameplay notes:
+
+Stats:
+	Health - Health/HP, non-regenerating (kinda want to not change a ton, maybe
+		start ~50 and max at ~200) 
+	Physical stamina - physical stamina used for physical actions (primarily 
+		fighting), high regen when low fatigue
+	Mental stamina (mana) - mental stamina used for spellcasting, high regen 
+		when low fatigue
+	Hunger - hunger slowly increases, eat food or eventually grow weak and die
+	
+	Fatigue - fatigue slowly increases, quickly increases when physical/mental 
+		stamina are recovering, sleep/rest to recover or pass out 
+
+Attributes:
+	Don't really want the standard D&D stuff
+	average = 100
+	improved by improving related skills
+
+	Body
+	|-Strength
+	|-Agility
+	|-Endurance
+	
+	Mind
+	|-Intelligence
+	|-Wits
+	|-Willpower
+	
+	Personality
+	|-Perception
+	|-Appearance
+	|-Charisma
+
+Speed:
+	base time needed for most actions = 100 "ticks"
+	multiplied by speed attribute
+
+Skills:	
+	Lots of skills for all weapon types, magic/ritual types, and general/
+		survival skills	
+	Two parts of a skill, "knowledge" and "ability"
+		Knowledge: how much you know (theortical knowledge) about a skill
+		Ability: how well you can actually perform the skill
+	Knowledge gained from trainers/books, having knowledge makes increasing
+		ability much faster at least as high as your ability
+	Ability increases through using the skill, fairly quickly if knowledge is
+		higher, very slow if equal increasing a skills knowledge increases 
+		related skils knowledge somewhatusing a skill increases related 
+		attributes
+
+Magic:
+	Two main forms of magic, rituals and spells.
+
+	Rituals:
+		Common magic type, everyone knows at least some
+		Takes time "meditating" to cast
+		Generally utility type spells
+		Increase hunger and reduced stamina regen to cast/maintain
+		Basic: healing, rest (while staying aware), creature detection
+		Protection rituals (primary source for elemental resistances, 
+			protection from death, etc...)
+		Advanced: teleportation (begin with only recalling to home, then can 
+			mark spots, at master can freely teleport to any explored location)
+			plane shifting
+	
+	Spells:
+		More specialized, only intelligent people use
+		Takes "mental stamina" to cast (willpower?)
+		Generally combat-oriented spells
+		Has all your fire/ice/lightning spells etc...
+		Higher level has plane shifting/teleportation 
+			(very high willpower cost)
+		
+	Anti-magic:
+		Many spells and rituals for resistance to vairous forms of magic 
+			(or even physical) attack
+		Anti-magic fields and null-magic stones that negate all magic within 
+			their area of influence, (including items)
+		Stones can be placed in a "lead box" to isolate the effect
+
+Combat:
+	Offense/Defense (with many modifiers) determines if and how solidly an 
+		attack hits
+	Damage/Armor (again with modifiers) determines damage sustained
+	Many different styles or stances you can freely switch between
+		defensive, offensive, group, etc...
+	Fighting multiple enemies at once is a big deal
+	Shield is much more than a simple armor boost
